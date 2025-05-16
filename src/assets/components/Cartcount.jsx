@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Cartcount() {
+function CartCount() {
   return (
-    <div>Cartcount</div>
+    <div>CartCount</div>
   )
 }
 
-export default Cartcount
+export default CartCount
